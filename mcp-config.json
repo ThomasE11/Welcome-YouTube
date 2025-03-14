@@ -1,0 +1,8 @@
+{
+  "credentials_path": "./client_secret.json",
+  "token_path": "./gmail_token.json",
+  "scopes": [
+    "https://www.googleapis.com/auth/gmail.send",
+    "https://www.googleapis.com/auth/gmail.compose"
+  ]
+}
