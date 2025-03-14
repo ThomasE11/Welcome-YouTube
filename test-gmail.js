@@ -1,4 +1,4 @@
-const { getMCP } = require('@smithery/runtime');
+import { getMCP } from '@smithery/runtime';
 
 async function testGmail() {
   try {
