@@ -1,0 +1,5 @@
+client_secret.json
+gmail_token.json
+node_modules/
+.env
+*.log
