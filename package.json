@@ -1,0 +1,14 @@
+{
+  "name": "gmail-mcp",
+  "version": "1.0.0",
+  "description": "Gmail MCP integration",
+  "type": "module",
+  "main": "test-gmail.js",
+  "scripts": {
+    "test": "node test-gmail.js"
+  },
+  "dependencies": {
+    "@smithery/runtime": "latest",
+    "@smithery/cli": "latest"
+  }
+}
